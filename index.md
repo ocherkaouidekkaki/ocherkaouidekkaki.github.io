@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pgae
 title: About Me
 ---
 
@@ -8,13 +8,13 @@ title: About Me
 Hello! I’m **Othman Cherkaoui Dekkaki**, a Postdoctoral Researcher at the College of Computing (COLCOM), UM6P in Ben Guerir, Morocco. I hold a Ph.D. in Applied Mathematics, with expertise in **bioeconomic modeling**, **optimal control theory**, and **viability theory**. My research focuses on developing innovative solutions to natural resource management challenges and advancing computational techniques for waste-to-energy processes.
 
 ### Education
-- **Ph.D. in Applied Mathematics**  
+- **Ph.D. in Applied Mathematics in 2024** 
   Faculty of Sciences, Mohammed V University, Rabat, Morocco  
   *Awarded with Honors (Très Honorable)*  
-  Thesis: *Decision support in natural resource management*  
+  Thesis: *Bioeconomic Modeling and Decision Support for Fishery Management and Waste-to-Energy Recovery*  
   Supervisors: Prof. Nadia Raissi and Prof. Noha El Khattabi  
 
-- **Master’s Degree in Applied Mathematics**  
+- **Master’s Degree in Applied Mathematics in 2017**  
   Faculty of Sciences, Mohammed V University, Rabat, Morocco  
   *UM5 Excellence Award – Top student in program*  
   Thesis: *Pricing in Fishery Management*
