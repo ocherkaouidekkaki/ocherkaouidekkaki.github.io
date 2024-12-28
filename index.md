@@ -1,5 +1,5 @@
 ---
-layout: pgae
+layout: page
 title: About Me
 ---
 
