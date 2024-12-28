@@ -1,6 +1,6 @@
 title: "Othman CHERKAOUI DEKKAKI"
 author: "Othman CHERKAOUI DEKKAKI"
-description: "Here are my socials don't hesitate to reach out"
+description: "Mohammed VI Polytechnic University, College of Computing"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -11,23 +11,20 @@ date_format: "%B %d, %Y"
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
-  - {file: "Publication.md", title: "Publication", icon: paper}
-
-  
+  - {file: "README.md", title: "About me", icon: address}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Othman.CHERKAOUI-DEKKAKI-EXT@um6p.ma"}
   - {title: Github, icon: github, url: "https://github.com/ocherkaouidekkaki"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/othman-cherkaouidekkaki/"}
-  - {title: Google Scholar, icon: scholar, url: "https://scholar.google.fr/citations?user=Fkomgl4AAAAJ&hl=fr&oi=ao"}
- - {title: Instagram, icon: instagram, url: "https://www.instagram.com/itsmeothman95/"}
+  #- {title: Google Scholar, icon: scholar, url: "https://scholar.google.fr/citations?user=Fkomgl4AAAAJ&hl=fr&oi=ao"}
+ #- {title: Instagram, icon: instagram, url: "https://www.instagram.com/itsmeothman95/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
