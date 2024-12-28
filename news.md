@@ -12,8 +12,8 @@ Stay up-to-date with my latest achievements, events, and contributions to the ac
 ## **2024**
 
 - **[Postdoctoral Research Position at COLCOM, UM6P](https://www.um6p.ma/en/research/colcom)**  
-  November 15, 2024  
-  Started my postdoctoral research at the College of Computing (COLCOM) at UM6P, focusing on contract-based design for power systems.
+  November, 2024  
+  Started my postdoctoral research at the College of Computing (COLCOM) at UM6P, focusing on Control theory for power systems.
 
 - **[Published in International Journal of Dynamics and Control](https://doi.org/10.1007/s40435-023-01012-5)**  
   October 2024  
