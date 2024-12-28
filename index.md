@@ -6,14 +6,14 @@ title: About Me
 ![My Profile Picture](assets/profile.jpg){: style="width: 150px; border-radius: 50%;"}
 
 
-Hello! I’m **Othman Cherkaoui Dekkaki**, a Postdoctoral Researcher at the College of Computing (COLCOM), UM6P in Ben Guerir, Morocco. I hold a Ph.D. in Applied Mathematics, with expertise in **bioeconomic modeling**, **optimal control theory**, and **viability theory**. My research focuses on developing innovative solutions to natural resource management challenges and advancing computational techniques for waste-to-energy processes.
+Hello! I’m **Othman Cherkaoui Dekkaki**, a Postdoctoral Researcher at the [College of Computing (COLCOM)](https://www.um6p.ma/en/research/colcom), UM6P in Ben Guerir, Morocco. I hold a Ph.D. in Applied Mathematics, with expertise in **bioeconomic modeling**, **optimal control theory**, and **viability theory**. My research focuses on developing innovative solutions to natural resource management challenges and advancing computational techniques for waste-to-energy processes.
 
 ### Education
 - **Ph.D. in Applied Mathematics in 2024** 
   Faculty of Sciences, Mohammed V University, Rabat, Morocco  
   *Awarded with Honors (Très Honorable)*  
   Thesis: *Bioeconomic Modeling and Decision Support for Fishery Management and Waste-to-Energy Recovery*  
-  Supervisors: Prof. Nadia Raissi and Prof. Noha El Khattabi  
+  Supervisors: Supervisors: [Prof. Nadia Raissi](mailto:n.raissi@um5r.ac.ma) and [Prof. Noha El Khattabi](mailto:n.elkhattabi@um5r.ac.ma)  
 
 - **Master’s Degree in Applied Mathematics in 2017**  
   Faculty of Sciences, Mohammed V University, Rabat, Morocco  
@@ -28,7 +28,7 @@ I am currently leveraging my academic background to contribute to cutting-edge r
 - Presented at prestigious conferences, including the 2023 American Control Conference.
 - Served as a **All-Atlantic Ocean Youth Ambassador** for the All-Atlantic Ocean Research Alliance, contributing to initiatives like *Atlantic Data 2030*.
 - Member of the **Blue-Cloud 2026 Expert Stakeholder Board**, providing high-level guidance and policy advice.
-
+- **Early Career Ocean Professionals Morocco** (ECOP) National Coordinator.
 
 ### Interests
 Beyond research, I am passionate about ocean data, environmental sustainability, and community-driven scientific initiatives. As a founding member of the **Early Career Ocean Professionals Morocco**, I actively organize conferences and workshops to inspire and connect young researchers.
