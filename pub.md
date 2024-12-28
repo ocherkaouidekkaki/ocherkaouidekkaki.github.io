@@ -17,7 +17,7 @@ Below is a list of my research contributions published in peer-reviewed journals
    [Read the paper](https://doi.org/10.1002/mma.7890)
 
 2. **Optimal Control of Waste Recovery Process**  
-   *O. Cherkaoui-Dekkaki*, W. Djema, N. Raissi, J.L. Gouzé, N. El Khattabi  
+   *O. Cherkaoui Dekkaki*, W. Djema, N. Raissi, J.L. Gouzé, N. El Khattabi  
    *International Journal of Dynamics and Control*, 2024.  
    [Read the paper](https://doi.org/10.1007/s40435-023-01012-5)
 
@@ -31,12 +31,12 @@ Below is a list of my research contributions published in peer-reviewed journals
 ## **Conference Proceedings**
 
 1. **Optimal Control of a Bioeconomic Model Applied to the Recovery of Household Waste**  
-   *O.C. Dekkaki*, W. Djema  
+   *O. Cherkaoui Dekkaki*, W. Djema  
    *2023 American Control Conference (ACC)*, pp. 2135-2140, 2023.  
    [Read the paper](https://doi.org/10.23919/ACC45663.2023.1234567)
 
 2. **Viability Analysis of a Stock-Capital Fishery Model**  
-   *O.C. Dekkaki*, N. Raissi  
+   *O. Cherkaoui Dekkaki*, N. Raissi  
    *2020 IEEE 6th International Conference on Optimization and Applications (ICOA)*, pp. 456-462, 2020.  
    [Read the paper](https://doi.org/10.23919/ICOA45678.2020.1234567)
 
