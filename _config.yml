@@ -17,14 +17,14 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "README.md", title: "About me", icon: address}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Othman.CHERKAOUI-DEKKAKI-EXT@um6p.ma"}
   - {title: Github, icon: github, url: "https://github.com/ocherkaouidekkaki"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/othman-cherkaouidekkaki/"}
-  - {title: Google Scholar, icon: scholar, url: "https://scholar.google.fr/citations?user=Fkomgl4AAAAJ&hl=fr&oi=ao"}
-  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/itsmeothman95/"}
+  #- {title: Google Scholar, icon: scholar, url: "https://scholar.google.fr/citations?user=Fkomgl4AAAAJ&hl=fr&oi=ao"}
+ #- {title: Instagram, icon: instagram, url: "https://www.instagram.com/itsmeothman95/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
