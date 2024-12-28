@@ -22,7 +22,7 @@ Below is a list of my research contributions published in peer-reviewed journals
 
 3. **Upwelling Analysis of Moroccan Atlantic Coast Based on Satellite Data**  
    Z. Okba, *O. Cherkaoui Dekkaki*, H. Elouizgani  
-   *Journal of Survey in Fisheries Sciences*, 2021.  
+   *Journal of Survey in Fisheries Sciences*, 2023.  
    [Read the paper](https://sifisheriessciences.com/article-1-1234-en.html)
 
 ---
