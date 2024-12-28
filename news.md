@@ -27,7 +27,7 @@ Stay up-to-date with my latest achievements, events, and contributions to the ac
   June 2023  
   Delivered a presentation on optimal control applied to bioeconomic models for household waste recovery.
 
-  - **[Published in Journal of Survey in Fisheries Sciences](https://sifisheriessciences.com/article-1-1234-en.html)**  
+- **[Published in Journal of Survey in Fisheries Sciences](https://sifisheriessciences.com/article-1-1234-en.html)**  
   May 2023  
   Co-authored research on upwelling analysis of the Moroccan Atlantic coast using satellite data.
 
