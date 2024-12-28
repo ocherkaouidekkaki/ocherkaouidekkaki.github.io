@@ -3,7 +3,6 @@ layout: page
 title: Publications
 ---
 
-# Publications
 
 Below is a list of my research contributions published in peer-reviewed journals and international conferences. My work focuses on bioeconomic modeling, optimal control theory, and environmental sustainability.
 
