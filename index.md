@@ -6,7 +6,7 @@ title: About Me
 ![My Profile Picture](assets/profile.jpg){: style="width: 150px; border-radius: 50%;"}
 
 
-Hello! I’m **Othman Cherkaoui Dekkaki**, a Postdoctoral Researcher at the [College of Computing (COLCOM)](https://www.um6p.ma/en/research/colcom), UM6P in Ben Guerir, Morocco. I hold a Ph.D. in Applied Mathematics, with expertise in **bioeconomic modeling**, **optimal control theory**, and **viability theory**. My research focuses on developing innovative solutions to natural resource management challenges and advancing computational techniques for waste-to-energy processes.
+Hello! I’m **Othman Cherkaoui Dekkaki**, a Postdoctoral Researcher at the [College of Computing (COLCOM)](https://um6p.ma/fr/um6p-college-computing), UM6P in Ben Guerir, Morocco. I hold a Ph.D. in Applied Mathematics, with expertise in **bioeconomic modeling**, **optimal control theory**, and **viability theory**. My research focuses on developing innovative solutions to natural resource management challenges and advancing computational techniques for waste-to-energy processes.
 
 ### Education
 - **Ph.D. in Applied Mathematics in 2024** 
