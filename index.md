@@ -33,7 +33,7 @@ I am currently leveraging my academic background to contribute to cutting-edge r
 ### Interests
 Beyond research, I am passionate about ocean data, environmental sustainability, and community-driven scientific initiatives. As a founding member of the **Early Career Ocean Professionals Morocco**, I actively organize conferences and workshops to inspire and connect young researchers.
 
-Feel free to explore this site to learn more about my projects, publications, and collaborations. If you wish to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/othman-cherkaoui-dekkaki/) or reach me via [email](mailto:cherkaouidekkakiothman@gmail.com).
+Feel free to explore this site to learn more about my projects, publications, and collaborations. If you wish to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/othman-cherkaouidekkaki/) or reach me via [email](mailto:cherkaouidekkakiothman@gmail.com).
 
 ---
 *"Advancing science, one model at a time."*
