@@ -41,6 +41,16 @@ Below is a list of my research contributions published in peer-reviewed journals
 
 ---
 
+
+## **Other Publications**
+
+![image](https://github.com/user-attachments/assets/c2905576-7e36-44fd-8b25-bc063f6b7ab0)
+
+1- **Bridging the Ocean: Oceanic Cycles**: Oceanic Cycles is the first part of the booklet series bridging the ocean. The booklet is written by the All-Atlantic Ocean Youth Ambassadors (AAOYA), illustrated & layouted by [Leonard Ermel](https://leonardermel.de/contact/).
+
+
+
 This list represents only a snapshot of my research journey. Feel free to explore the detailed insights by clicking the provided links. If you'd like to collaborate or learn more, [contact me](mailto:cherkaouidekkakiothman@gmail.com).
+
 
 ---
