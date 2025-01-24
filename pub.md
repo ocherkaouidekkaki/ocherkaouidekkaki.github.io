@@ -46,8 +46,17 @@ Below is a list of my research contributions published in peer-reviewed journals
 
 ![image](https://github.com/user-attachments/assets/c2905576-7e36-44fd-8b25-bc063f6b7ab0)
 
-1- **Bridging the Ocean: Oceanic Cycles**: Oceanic Cycles is the first part of the booklet series bridging the ocean. The booklet is written by the All-Atlantic Ocean Youth Ambassadors (AAOYA), illustrated & layouted by [Leonard Ermel](https://leonardermel.de/contact/).
+1- **Bridging the Ocean: Oceanic Cycles**: is the first part of the booklet series Bridging the Ocean. The booklet is written by the All-Atlantic Ocean Youth Ambassadors (AAOYA), illustrated & layouted by [Leonard Ermel](https://leonardermel.de/contact/).
 
+
+![image](https://github.com/user-attachments/assets/c08c8854-9db5-4bcc-af77-a9cc3757c71e)
+
+2- **Bridging the Ocean: Ocean Pollution & Solutions** is the second part of the booklet series Bridging the Ocean. The booklet is written by the All-Atlantic Ocean Youth Ambassadors (AAOYA), illustrated & layouted by [Leonard Ermel](https://leonardermel.de/contact/).
+
+
+![image](https://github.com/user-attachments/assets/596020f6-5227-47b2-b323-900a9f15d842)
+
+3- **Bridging the Ocean: Food Security** is the third part of the booklet series Bridging the Ocean. The booklet is written by the All-Atlantic Ocean Youth Ambassadors (AAOYA), illustrated & layouted by [Leonard Ermel](https://leonardermel.de/contact/).
 
 
 This list represents only a snapshot of my research journey. Feel free to explore the detailed insights by clicking the provided links. If you'd like to collaborate or learn more, [contact me](mailto:cherkaouidekkakiothman@gmail.com).
