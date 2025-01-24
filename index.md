@@ -21,7 +21,8 @@ Hello! I’m **Othman Cherkaoui Dekkaki**, a Postdoctoral Researcher at the [Col
   Thesis: *Pricing in Fishery Management*
 
 ### Professional Experience
-I am currently leveraging my academic background to contribute to cutting-edge research at UM6P. Previously, I served as a Research Assistant at Mohammed V University, where I taught over 200 hours of mathematics courses including Analysis, Statistics, and specialized mathematics for SVT programs.
+- I am leveraging my academic background to contribute to cutting-edge research at UM6P.
+- I served as a Research/Teaching Assistant at Mohammed V University. I taught over 200 hours of mathematics courses including Analysis, Statistics, specialized mathematics for SVT programs, and optimal control theory and numerical methods for Master students.
 
 ### Notable Achievements
 - Published in high-impact journals such as the *International Journal of Dynamics and Control* and *Mathematical Methods in the Applied Sciences*.
