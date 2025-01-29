@@ -10,6 +10,7 @@ Below is a list of my research contributions published in peer-reviewed journals
 ## **Submitted Papers**
 
 1. **HJB-Based Viability Analysis of a Constrained Stock-Capital Fishery Model**
+
    A. Bouhmady, *O. Cherkaoui Dekkaki*, M. Serhani, N. Raissi
    Submitted - IJDY 2025
 
