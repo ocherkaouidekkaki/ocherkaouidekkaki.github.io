@@ -7,9 +7,16 @@ title: Publications
 Below is a list of my research contributions published in peer-reviewed journals and international conferences. My work focuses on bioeconomic modeling, optimal control theory, and environmental sustainability.
 
 ---
+## **Submitted Papers**
+
+1. **HJB-Based Viability Analysis of a Constrained Stock-Capital Fishery Model**
+   A. Bouhmady, *O. Cherkaoui Dekkaki*, M. Serhani, N. Raissi
+   Submitted - IJDY 2025
+
+
+---
 
 ## **Journal Articles**
-
 1. **Optimal Control of Waste Recovery Process**  
    *O. Cherkaoui Dekkaki*, W. Djema, N. Raissi, J.L. Gouzé, N. El Khattabi  
    *International Journal of Dynamics and Control*, 2024.  
