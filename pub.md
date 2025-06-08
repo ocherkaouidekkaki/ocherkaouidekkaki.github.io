@@ -14,7 +14,7 @@ Below is a list of my research contributions published in peer-reviewed journals
    A. Bouhmady, *O. Cherkaoui Dekkaki*, M. Serhani, N. Raissi
    Submitted -
 2. **Optimal Control of a Bioeconomic Crop–Energy System with Energy Reinvestment**
-3. 
+   
    O. Cherkaoui Dekkaki
    Submitted to Applied Mathematical Modelling
 
