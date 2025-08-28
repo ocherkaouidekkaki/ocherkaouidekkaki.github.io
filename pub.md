@@ -9,13 +9,15 @@ Below is a list of my research contributions published in peer-reviewed journals
 ---
 ## **Submitted Papers**
 
-1. **HJB-Based Viability Analysis of a Constrained Stock-Capital Fishery Model**
-
-   A. Bouhmady, *O. Cherkaoui Dekkaki*, M. Serhani, N. Raissi - Submitted
+1. **Hamilton–Jacobi Reachability for Viability Analysis of Constrained Waste-to-Energy Systems under Adversarial Uncertainty**.
+A. Bouhmady, O. Cherkaoui Dekkaki – *Submitted to European Journal of Control*
    
 2. **Optimal Control of a Bioeconomic Crop–Energy System with Energy Reinvestment**
    
-   O. Cherkaoui Dekkaki - Submitted to Applied Mathematical Modelling
+   O. Cherkaoui Dekkaki - *Submitted to Journal of Mathematical Modeling*
+
+3. **Multi-objective Optimal Control of a Bioenergy–Soil System under Fertility Constraints**.
+O. Cherkaoui Dekkaki, A. Bouhmady, I. Benamara – *NonLinear Science*.
 
 ---
 
