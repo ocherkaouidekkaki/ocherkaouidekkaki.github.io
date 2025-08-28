@@ -17,7 +17,7 @@ A. Bouhmady, O. Cherkaoui Dekkaki – *Submitted to European Journal of Control*
    O. Cherkaoui Dekkaki - *Submitted to Journal of Mathematical Modeling*
 
 3. **Multi-objective Optimal Control of a Bioenergy–Soil System under Fertility Constraints**.
-O. Cherkaoui Dekkaki, A. Bouhmady, I. Benamara – *NonLinear Science*.
+   O. Cherkaoui Dekkaki, A. Bouhmady, I. Benamara – *NonLinear Science*.
 
 ---
 
@@ -73,7 +73,7 @@ O. Cherkaoui Dekkaki, A. Bouhmady, I. Benamara – *NonLinear Science*.
 ---
 ![image](https://github.com/user-attachments/assets/28b729c8-c49c-432b-b256-f3cf91494ed5)
 
-4- ** Mission Océan Saine: Comprendre pour mieux protéger** is a booklet made by the fruitful collaboration between ECOP Morocco and Banlieues Climat. The booklet was presented in a session in UNOC 3.
+4- **Mission Océan Saine: Comprendre pour mieux protéger** is a booklet made by the fruitful collaboration between ECOP Morocco and Banlieues Climat. The booklet was presented in a session in UNOC 3.
 
 ------------------------
 ------------------------
