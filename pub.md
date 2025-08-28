@@ -69,6 +69,12 @@ Below is a list of my research contributions published in peer-reviewed journals
 3- **Bridging the Ocean: Food Security** is the third part of the booklet series Bridging the Ocean. The booklet is written by the All-Atlantic Ocean Youth Ambassadors (AAOYA), illustrated & layouted by [Leonard Ermel](https://leonardermel.de/contact/).
 
 ---
+![image](https://github.com/user-attachments/assets/28b729c8-c49c-432b-b256-f3cf91494ed5)
+
+4- ** Mission Océan Saine: Comprendre pour mieux protéger** is a booklet made by the fruitful collaboration between ECOP Morocco and Banlieues Climat. The booklet was presented in a session in UNOC 3.
+
+------------------------
+------------------------
 This list represents only a snapshot of my research journey. Feel free to explore the detailed insights by clicking the provided links. If you'd like to collaborate or learn more, [contact me](mailto:cherkaouidekkakiothman@gmail.com).
 
 
